@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me
+
+Hi there! I'm DarkOmen20, and I'm a solo game dev hobbyist.
+
+- 🔭 I’m currently working on
+a 2D turn-based game in a medieval fantasy setting.  Think Mordheim, but with interactable terrain.
+
+- 🌱 I’m currently learning
+Unity2D, UI Toolkit, and scripting in C#.
+
+- 💬 Ask me about my gazillion game ideas!
+
+- ⚡ Fun fact: 
+I still have an original NES and SNES from when I was a kid!
 
 <!--
-**DarkOmen20/DarkOmen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on
+- 🤔 I’m looking for help with
